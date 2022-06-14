@@ -1,2 +1,7 @@
-# indie-bungle-2-breakout-indies
-Indie Bungle 2: Breakout Indies
+# Indie Bungle 2: Breakout Indies
+
+## [Play Indie Bungle 2: Breakout Indies in your browser (HTML5)](http://www.pippinbarr.com/games/indiebungle2/)
+
+_Indie Bungle 2:_Breakout Indies__ was written in JavaScript/HTML5 using the [Phaser](http://phaser.io/) game framework. Sounds were created using bfxr, Audacity, the Mac OS X text-to-speech voice &#8220;Bad News&#8221;, as well as sound assets from _[VVVVVV](http://thelettervsixtim.es)_ and _[How Do You Do It?](http://ninasays.so/howdoyoudoit/)_. Graphics were created by me except, again, for assets taken from _[VVVVVV](http://thelettervsixtim.es)_, _[How Do You Do It?](http://ninasays.so/howdoyoudoit/)_, and replicated from _[Desert Golfing](http://desertgolfing.captain-games.com/)_. Lyrics to Acid on Granite taken from Tale of Tales&#8217; _[The Graveyard](http://tale-of-tales.com/TheGraveyard/)_. Gameplay &#8220;translated&#8221; from the original games: _[Desert Golfing](http://desertgolfing.captain-games.com/)_, _[How Do You Do It?](http://ninasays.so/howdoyoudoit/)_, _[The Graveyard](http://tale-of-tales.com/TheGraveyard/)_, _[The Artist Is Present](http://www.pippinbarr.com/games/theartistispresent/TheArtistIsPresent.html)_, and _[VVVVVV](http://thelettervsixtim.es)_. _Indie Bungle 2__: _Breakout Indies__ should hopefully work on mobile.
+
+_Indie Bungle 2: Breakout Indies_ has appeared on [Kill Screen](https://killscreen.com/articles/what-if-all-videogames-were-breakout/) and [Warp Door](http://warpdoor.com/).
